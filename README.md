@@ -1,2 +1,2 @@
-# disparos_nueva_york
-Aplicación ocurrencia de disparos en NY
+# shoot_NY
+Shooting in New York
